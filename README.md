@@ -1,6 +1,6 @@
 # demo of multitextarea
 
-I felt that my web-based publishing application would benefit from a possibility that editable text could be split over multiple text areas, but I had doubts towards what could be done in a browser. So, a prototype was made. It has these features:
+I felt that my [web-based publishing application](http://kwstories.hoito.org/)  would benefit from a possibility that editable text could be split over multiple text areas, but I had doubts towards what could be done in a browser. So, a prototype was made. It has these features:
 
 - need for adding/deleting a textarea is checked after every keystroke
 - when resizing the first textarea, text is split to fill as many textareas as text needs
